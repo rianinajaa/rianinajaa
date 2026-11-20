@@ -63,4 +63,14 @@ I focus on web apps that solve real operational problems: clear flows, reliable 
   → https://github.com/rianinajaa/sinwaz-proof
   *(repo internal, private)*
 
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rianinajaa/rianinajaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rianinajaa/rianinajaa/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rianinajaa/rianinajaa/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04060E,50:2F6BFF,100:8FE388&height=120&section=footer" />

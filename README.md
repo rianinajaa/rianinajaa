@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04060E,50:2F6BFF,100:8FE388&height=180&section=header&text=Hi,%20I'm%20Fathan%20Aprian&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=A%20Web%20Developer&descSize=18&descAlignY=52&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/rianinajaa/rianinajaa/main/assets/header.svg" alt="Hi, I'm Fathan Aprian — A Web Developer" />
 
 <div align="center">
 

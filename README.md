@@ -63,6 +63,30 @@ I focus on web apps that solve real operational problems: clear flows, reliable 
   → https://github.com/rianinajaa/sinwaz-proof
   *(repo internal, private)*
 
+## Koleksi Landing Page
+
+Kumpulan landing page single-file (HTML/CSS/JS) dengan animasi dan elemen 3D interaktif:
+
+- **Ascend** · HTML, CSS, JavaScript, Three.js
+  Landing page SaaS "revenue command center" tema gelap dengan planet WebGL interaktif dan scroll-reveal.
+  → [Repo](https://github.com/rianinajaa/ascend-landingpage) · [Demo live](https://rianinajaa.github.io/ascend-landingpage/)
+
+- **Gravity** · HTML, CSS, JavaScript, Three.js
+  Landing page digital studio tema terang dengan orb 3D interaktif, loader animasi, dan background yang berubah tiap stage saat scroll.
+  → [Repo](https://github.com/rianinajaa/gravity-landingpage) · [Demo live](https://rianinajaa.github.io/gravity-landingpage/)
+
+- **Kimi Antonelli — GRIDO1** · HTML, CSS, JavaScript, Three.js
+  Halaman tribute pembalap F1 Mercedes dengan hero animasi, efek parallax, dan canvas/WebGL.
+  → [Repo](https://github.com/rianinajaa/antonelli-landingpage) · [Demo live](https://rianinajaa.github.io/antonelli-landingpage/)
+
+- **Marcus Vane** · HTML, CSS, JavaScript
+  Landing page personal brand founder · investor · operator, tema gelap premium dengan animasi reveal dan smooth scroll.
+  → [Repo](https://github.com/rianinajaa/marcus-landingpage) · [Demo live](https://rianinajaa.github.io/marcus-landingpage/)
+
+- **SodaPure** · HTML, CSS, JavaScript, GSAP
+  Landing page produk diet soda zero sugar dengan model 3D interaktif, animasi gelembung, dan background gradien dinamis.
+  → [Repo](https://github.com/rianinajaa/SodaPure-landingpage) · [Demo live](https://rianinajaa.github.io/SodaPure-landingpage/)
+
 ## Contribution Snake
 
 <div align="center">
